@@ -7,6 +7,6 @@ Pod::Spec.new do |s|
   s.author = { "Nagasawa Hiroki" => "civokjots10@gmail.com" }
   s.requires_arc = true
   s.ios.deployment_target = "8.0"
-  s.source = { :git => "https://github.com/pixyzehn/PathMenu.git", :tag => "#{s.version}" }
+  s.source = { :git => "https://github.com/ShoCardInc/PathMenu.git" }
   s.source_files = "PathMenu/*.swift"
 end
